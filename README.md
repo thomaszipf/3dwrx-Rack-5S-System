@@ -13,9 +13,9 @@ So, in order to utilize the full workbench better, I decided to watch out for so
 
 <p align="center">
   <img 
-    width="1000"
-    height="700"
-    src="https://github.com/thomaszipf/3dwrx-Rack-5S-System/blob/main/Images/Rack-5S-System1.PNG"
+    width="800"
+    height="800"
+    src="https://github.com/thomaszipf/3dwrx-Rack-5S-System/blob/main/Images/Rack-5S-System.PNG"
   >
 </p>
 
