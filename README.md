@@ -21,7 +21,7 @@ Since Grundtal was available for me, I did test to use discontinual elemets as a
 * better organization
 
 ## How to setup:
-This Thing follows the YouGo3D 5S Household Approach. Feel free to print the file and share your feedback.
+This thing follows the YouGo3D 5S Household Approach. Feel free to print the file and share your feedback.
 
 
 ## Disclaimer:
